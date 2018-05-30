@@ -8,3 +8,4 @@ curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $data = curl_exec($ch); 
 print_r($data);
 curl_close($ch); 
+////added by shumail rafique
